@@ -82,7 +82,7 @@ push file to github
     
 ## Support
 
-For support, email nadeemsdemlde@gmail.com or you may contact me https://portfolionadeem.netlify.app/contact.
+For support, email nadeemsdemlde@gmail.com or you may contact me https://nsde.netlify.app/ contact.
 
 
 ## Tech Stack
